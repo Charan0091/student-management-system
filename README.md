@@ -53,6 +53,7 @@ com.studentManagement.demo
 ├── exception    → Global exception handling
 ├── response     → API response wrapper
 
+
 📦 API Response Format
 
 All APIs return a standard response structure:
